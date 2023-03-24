@@ -1,4 +1,3 @@
-## Summer Dupree
 <img src="Headshot.png" width="200" height="373">
 
 ### About Me
